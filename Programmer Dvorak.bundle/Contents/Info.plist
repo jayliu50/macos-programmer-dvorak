@@ -15,7 +15,7 @@
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.dvorak.programmerdvorak</string>
 		<key>TISIntendedLanguage</key>
-		<string>en</string>
+		<string>en-US</string>
 	</dict>
 </dict>
 </plist>
